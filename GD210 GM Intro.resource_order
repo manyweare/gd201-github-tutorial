@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"o_coin","order":3,"path":"objects/o_coin/o_coin.yy",},
+    {"name":"o_nosedude","order":1,"path":"objects/o_nosedude/o_nosedude.yy",},
+    {"name":"o_poop","order":5,"path":"objects/o_poop/o_poop.yy",},
+    {"name":"s_coin","order":4,"path":"sprites/s_coin/s_coin.yy",},
+    {"name":"s_nosedude","order":2,"path":"sprites/s_nosedude/s_nosedude.yy",},
+    {"name":"s_poop","order":6,"path":"sprites/s_poop/s_poop.yy",},
+  ],
+}
